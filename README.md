@@ -9,4 +9,4 @@ To securely add the ASIO repository to your system, run the following single com
 ### Single-Line Installation Command
 
 ```bash
-curl -faSl- [https://raw.githubusercontent.com/CyberHuman-bot/asio-install/refs/heads/main/install.sh](https://raw.githubusercontent.com/CyberHuman-bot/asio-install/refs/heads/main/install.sh) | sudo bash
+curl -faSl- https://raw.githubusercontent.com/CyberHuman-bot/asio-install/refs/heads/main/install.sh | sudo bash
