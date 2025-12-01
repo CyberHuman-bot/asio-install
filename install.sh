@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # --- Repository Configuration ---
-REPO_BASE_URL="http://asio-deb.duckdns.org:4200/"
+REPO_BASE_URL="http://95.170.219.14:4200/"
 REPO_SUITE="custom"
 REPO_COMPONENTS="main proprietary"
 REPO_GPG_KEY_FILE="ASIO-KEY.asc"
